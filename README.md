@@ -1,4 +1,4 @@
-# desafio-projeto-github-reposit-rio
+# desafio-projeto-github-repositório
 Este repositório foi criado para organizar os projetos da DIo.
 
 
